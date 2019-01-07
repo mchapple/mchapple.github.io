@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Remember you can use either a local text editor such as nano or vi or alternatively the [editor on GitHub](https://github.com/mchapple/mchapple.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Remember you can choose to use either a local text editor such as nano or vi or alternatively the [editor on GitHub](https://github.com/mchapple/mchapple.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
